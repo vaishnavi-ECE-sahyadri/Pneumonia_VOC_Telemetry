@@ -1,4 +1,4 @@
-# Pneumonia VOC Telemetry — Phase 1
+# IoT-Enabled Multi-Parameter Pneumonia Screening System
 
 A real-time **Volatile Organic Compound (VOC) monitoring system** for early pneumonia risk screening. The project pairs an **ESP32** edge device (hosting a live web dashboard over WiFi AP) with a **Python ML pipeline** that classifies breath VOC compounds and visualizes risk on a **Streamlit** dashboard.
 
